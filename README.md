@@ -7,7 +7,7 @@ I’m Chieh-An Chang — a chill 🏝️ double-major in Computer Science & Stat
 - 👯 I’m looking to collaborate on data-driven projects and machine learning experiments — especially the ones that need a dash of statistics magic ✨.
 - 🤔 I’m looking for help with creative ideas to turn complex data into meaningful insights for real-world impact.
 - 💬 Ask me about probability distributions, Python 🐍, R 📊, or the art of being a TA while juggling coding sessions.
-- 📫 How to reach me: [[LinkedIn](https://www.linkedin.com/)](https://www.linkedin.com/in/chiehanchang/) or email me at [chiehan.chang.job@gmail.com
+- 📫 How to reach me: (https://www.linkedin.com/) (https://www.linkedin.com/in/chiehanchang/) or email me at [chiehan.chang.job@gmail.com
 ](mailto:chiehan.chang.job@gmail.com
 ).
 - 😄 Pronouns: He/Him
