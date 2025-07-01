@@ -14,3 +14,6 @@ I’m Chieh-An Chang — a chill 🏝️ double-major in Computer Science & Stat
 - ⚡ Fun fact: I ranked 6th in a Kaggle competition 🏅 and I’ve been on the Dean’s List 🏆 a couple of times — proof that stats and coffee go hand in hand ☕.
 
 Thanks for stopping by and feel free to explore my repos or drop a line. Let’s build something awesome together 🤝!
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/chiehanchang?ext=heatmap&theme=radical&font=JetBrains_Mono)
+
